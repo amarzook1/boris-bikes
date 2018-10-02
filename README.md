@@ -2,7 +2,11 @@
 
 | Objects | Messages |
 |--|--|
-| Person | Verified |
+| Person | |
 | Bike | Working & good |
-| Customer | Paid |
 | Docking Station | Release |
+
+##Diagram
+
+Bike <-- working? --> true/false
+DockingStation <-- release_bike --> a Bike
