@@ -6,7 +6,7 @@
 | Bike | Working & good |
 | Docking Station | Release |
 
-##Diagram
+## Diagram
 
 Bike <-- working? --> true/false
 DockingStation <-- release_bike --> a Bike
